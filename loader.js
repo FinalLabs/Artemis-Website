@@ -3,7 +3,7 @@ function downloadRedirect() {
 }
 
 function indexRedir() {
-    window.location.replace("index.html"); //put discord url there 
+    window.location.replace("index.html"); 
 }
 
 function discordRedirect() {
