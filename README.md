@@ -3,7 +3,7 @@
 ```css
 /*!
  *
- * bttn.css - https://ganapativs.github.io/bttn.css
+ * bttn.css - https://raw.githubusercontent.com/ganapativs/bttn.css/master/dist/standalone/minimal.css
  * Version - 0.2.4
  * Demo: https://bttn.surge.sh
  *
