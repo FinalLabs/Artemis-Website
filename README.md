@@ -183,7 +183,7 @@
 
 </details>
 
-# Liscence
+# License
 
 MIT License
 
