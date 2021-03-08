@@ -1,5 +1,7 @@
 # Credits
-
+<details>
+    <summary>minimal.css</summary>
+    
 ```css
 /*!
  *
@@ -176,6 +178,7 @@
     color: #bd2df5;
   }
 ```
+</details>
 
 # Liscence
 
