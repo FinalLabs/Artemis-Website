@@ -60,10 +60,10 @@
     background-image: url('background.jpg');
     opacity: 0; 
     transition: opacity 2.5s; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: stretch;
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+    background-size: auto;
     background-repeat:no-repeat;
 } 
 :focus {
